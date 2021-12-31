@@ -1,5 +1,5 @@
 import streamlit as st
-streamlit run app.py
+
 import pandas as pd
 import plotly.express as px
 import seaborn as sns
